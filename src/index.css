@@ -1,0 +1,51 @@
+*{
+  font-family: Segoe UI, sans-serif;
+
+}
+:root {
+
+  --rs-primary-50: #f2faff;
+  --rs-primary-100: #cce9ff;
+  --rs-primary-200: #a6d7ff;
+  --rs-primary-300: #80c4ff;
+  --rs-primary-400: #59afff;
+  --rs-primary-500: #3498ff;
+  --rs-primary-600: #2589f5;
+  --rs-primary-700: #1675e0;
+  --rs-primary-800: #0a5dc2;
+  --rs-primary-900: #004299;
+
+
+  --rs-color-red: #f44336;
+  --rs-color-orange: #fa8900;
+  --rs-color-yellow: #ffb300;
+  --rs-color-green: #4caf50;
+  --rs-color-cyan: #00bcd4;
+  --rs-color-blue: #2196f3;
+  --rs-color-violet: #673ab7;
+}
+/* .rs-dropdown-toggle {
+  background-color: #00bcd4;
+}
+  .rs-btn { 
+    background-color: #004299;
+}
+.rs-btn-default{
+  background-color: #00bcd4;
+}
+#menuebutton{
+  background-color: #673ab7;
+} */
+
+.custom-dropdown-container .rs-dropdown-toggle {
+  background-color: #31bcc1; /* Change the background color of the button to red */
+  color: white; /* Change the text color of the button to white */
+
+  /* Add any other custom styles as needed */
+}
+.custom-dropdown-container .rs-dropdown-toggle:hover {
+  background-color: #31bcc1; /* Change the background color of the button to red */
+  color: white; /* Change the text color of the button to white */
+  
+  /* Add any other custom styles as needed */
+}
